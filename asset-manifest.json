@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecom/static/css/main.31d6cfe0.css",
+    "main.js": "/ecom/static/js/main.b40d4a06.js",
+    "static/media/avocado.jpg": "/ecom/static/media/avocado.b65e885eec2bd4bdfdf5.jpg",
+    "index.html": "/ecom/index.html",
+    "main.b40d4a06.js.map": "/ecom/static/js/main.b40d4a06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b40d4a06.js"
+  ]
+}
